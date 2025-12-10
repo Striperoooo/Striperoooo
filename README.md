@@ -11,7 +11,7 @@ Building clean, accessible user interfaces primarily with React, TypeScript, and
 *   ✉️  You can contact me at [charlesdvillanueva16@gmail.com](mailto:charlesdvillanueva16@gmail.com)
 *   🧠  I'm currently learning Vitest/RTL (unit testing practices) and general accessibility best practices (WCAG).
 *   👥  I'm looking to collaborate on Open-source projects that involve the MERN stack or interesting UI/UX challenges.
-*   💬  Ask me about I am actively seeking and eager to contribute to a collaborative team environment.
+*   💬  I am actively seeking and eager to contribute to a collaborative team environment.
 
 ### Tech Stack
 
