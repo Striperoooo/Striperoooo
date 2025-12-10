@@ -8,7 +8,7 @@ Building clean, accessible user interfaces primarily with React, TypeScript, and
 
 *   🌍  I'm based in Angeles City, Pampanga, Philippines (Remote/Hybrid)
 *   🖥️  See my portfolio at [https://dev-portfolio-charles.netlify.app/](http://https://dev-portfolio-charles.netlify.app/)
-*   ✉️  You can contact me at [charlesdvillanueva16@gmail.com](mailto:charlesdvillanueva16@gmail.com)
+*   ✉️  You can contact me at [charlesdeiniel.villanueva@gmail.com](mailto:charlesdeiniel.villanueva@gmail.com)
 *   🧠  I'm currently learning Vitest/RTL (unit testing practices) and general accessibility best practices (WCAG).
 *   💬  I am actively seeking and eager to contribute to a collaborative team environment.
 
@@ -32,9 +32,3 @@ Building clean, accessible user interfaces primarily with React, TypeScript, and
   <p align="left"> 
                 <a href="https://www.github.com/Striperoooo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a>
   </p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Striperoooo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Striperoooo&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
