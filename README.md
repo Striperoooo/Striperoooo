@@ -1,4 +1,4 @@
-Hi 👋 My name is Charles Deiniel D. Villanueva
+Hi 👋 My name is Charles Deiniel Villanueva
 ======================================================================================================================================================
 
 Front-End Developer
