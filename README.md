@@ -10,7 +10,6 @@ Building clean, accessible user interfaces primarily with React, TypeScript, and
 *   🖥️  See my portfolio at [https://dev-portfolio-charles.netlify.app/](http://https://dev-portfolio-charles.netlify.app/)
 *   ✉️  You can contact me at [charlesdvillanueva16@gmail.com](mailto:charlesdvillanueva16@gmail.com)
 *   🧠  I'm currently learning Vitest/RTL (unit testing practices) and general accessibility best practices (WCAG).
-*   👥  I'm looking to collaborate on Open-source projects that involve the MERN stack or interesting UI/UX challenges.
 *   💬  I am actively seeking and eager to contribute to a collaborative team environment.
 
 ### Tech Stack
