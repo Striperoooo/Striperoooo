@@ -7,7 +7,7 @@ Front-End Developer
 Building clean, accessible user interfaces primarily with React, TypeScript, and Tailwind CSS. Based in the Philippines, open to remote and hybrid opportunities.
 
 *   🌍  I'm based in Angeles City, Pampanga, Philippines (Remote/Hybrid)
-*   🖥️  See my portfolio at [https://dev-portfolio-charles.netlify.app/](http://https://dev-portfolio-charles.netlify.app/)
+*   🖥️  See my portfolio at https://dev-portfolio-charles.netlify.app/
 *   ✉️  You can contact me at [charlesdeiniel.villanueva@gmail.com](mailto:charlesdeiniel.villanueva@gmail.com)
 *   🧠  I'm currently learning Vitest/RTL (unit testing practices) and general accessibility best practices (WCAG).
 *   💬  I am actively seeking and eager to contribute to a collaborative team environment.
